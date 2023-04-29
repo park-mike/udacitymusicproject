@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">MusicProjectUdacity</string>
+    <!-- Category name for phrases [CHAR LIMIT=20] -->
+    <string name="genre_name">Genre Name</string>
+
+    <string name="playlist">Playlist Name</string>
+
+    <!-- Category name for the vocabulary words for colors [CHAR LIMIT=20] -->
+    <string name="song_search">Search for a song here</string>
+
+    <!-- Category name for the vocabulary words for numbers [CHAR LIMIT=20] -->
+    <string name="song_name">List of song names</string>
+
+    <!-- Category name for the vocabulary words for family members [CHAR LIMIT=20] -->
+    <string name="upgrade_promo">Buy the premium version</string>
+
+    <string name="store">Music Store</string>
+</resources>
+
+
